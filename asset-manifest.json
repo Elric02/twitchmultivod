@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/twitchmultivod.git/static/css/main.1a94e759.css",
+    "main.js": "/twitchmultivod.git/static/js/main.2e890425.js",
+    "reactPlayerPreview.js": "/twitchmultivod.git/static/js/reactPlayerPreview.a0c73bae.chunk.js",
+    "index.html": "/twitchmultivod.git/index.html",
+    "main.1a94e759.css.map": "/twitchmultivod.git/static/css/main.1a94e759.css.map",
+    "main.2e890425.js.map": "/twitchmultivod.git/static/js/main.2e890425.js.map",
+    "reactPlayerPreview.a0c73bae.chunk.js.map": "/twitchmultivod.git/static/js/reactPlayerPreview.a0c73bae.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a94e759.css",
+    "static/js/main.2e890425.js"
+  ]
+}
